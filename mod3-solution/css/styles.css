@@ -1,0 +1,74 @@
+*{
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color:#e97b65;
+}
+.navbar-brand a:hover, .navbar-brand a:active{
+    text-decoration: none;
+}
+#header-nav{
+    background-color: #65e9bd;
+    border-radius: 0;
+    border: 0;
+    
+    
+}
+.navbar-brand h1{ 
+    color: #e97b65;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: Bold;
+    margin-top: 0;
+    text-align: left;
+}
+.navbar-header{
+    max-width: 100%;
+}
+.navbar-header button.navbar-toggle{
+    clear: both;
+    margin-top: -35px;
+    margin-right: -25px;
+}
+
+#collapsable-nav a{
+    font-size: 1.2em;
+}
+#nav-list{
+    margin-top: 10px;
+    
+}
+#nav-list a{
+    color: #e97b65;
+    text-align: center;
+    
+}
+#nav-list a:hover{
+    background: #E7E7E7;
+}
+.section{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: #65e9bd;
+}
+.section>h3{
+    text-align: center;
+    margin-top: 0;
+}
+h2{
+    margin-bottom: 25px;
+}
+p{
+    font-size: medium;
+    line-height: 1.5;
+}
+section{
+    max-width: 100%;
+    margin-right: 0;
+}
+
+
+
